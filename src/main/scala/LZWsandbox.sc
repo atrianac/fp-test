@@ -1,0 +1,1 @@
+LZW.initialDict.get("C")
